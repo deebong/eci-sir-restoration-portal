@@ -37,7 +37,7 @@ This repository contains a standalone, production-ready frontend prototype (`ind
 **Clone the Repository:**
    ```bash
    git clone [https://github.com/yourusername/eci-sir-restoration-portal.git](https://github.com/yourusername/eci-sir-restoration-portal.git)
-   cd eci-sir-restoration-portal
+   cd eci-sir-restoration-portal ```
 
 1. **Run Locally:**
 Simply open the index.html file in any modern web browser. No local server, backend, or build-step is required for the frontend demonstration.
