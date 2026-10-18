@@ -52,5 +52,8 @@ The proposed data flow relies on existing ECI database structures while introduc
 ## 📖 Background & Context
 This architectural proposal was developed against the backdrop of the youth-led Cockroach Janta Party (CJP) protests that escalated in late 2026[cite: 1, 10]. Originally formed in May 2026 to protest youth unemployment and NEET exam paper leaks, the movement expanded its focus by September and October 2026 to demand the resignation of Chief Election Commissioner Gyanesh Kumar[cite: 1, 5, 6]. This shift occurred after the Special Intensive Revision (SIR) led to the deletion of roughly 130 million names from the electoral rolls, a process critics alleged was arbitrary and bypassed internal ECI objections[cite: 6, 7, 8]. The Supreme Court of India intervened, issuing notices regarding the procedural legality of the mass deletions and clarifying that deletion from the roll does not equate to a loss of citizenship[cite: 8, 9]. This portal prototype is presented as a politically neutral, technical remediation tool to restore operational transparency, alleviate protest grievances, and optimize the ECI's digital infrastructure[cite: 11, 20].
 
+## Data Disclaimer
+All data utilized in this prototype (EPIC numbers, names, Aadhaar OTP simulations) is entirely mocked for demonstration purposes and does not represent real ECI or UIDAI production data.
+
 ## 📜 License
 Open-Source (MIT License) - Intended for immediate civic, academic, and administrative adoption.
