@@ -34,7 +34,7 @@ The proposed data flow relies on existing ECI database structures while introduc
 
 **Clone the Repository:**
    ```bash
-   git clone [https://github.com/yourusername/eci-sir-restoration-portal.git](https://github.com/yourusername/eci-sir-restoration-portal.git)
+   git clone https://github.com/yourusername/eci-sir-restoration-portal.git
    cd eci-sir-restoration-portal
    ```
  
