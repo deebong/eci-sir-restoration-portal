@@ -1,6 +1,7 @@
 # ECI Voter Roll Accountability & Fast-Track Restoration Portal
 
 ## 📌 Project Overview
+🟢 Live Interactive Demo: https://deebong.github.io/eci-sir-restoration-portal/
 This repository contains a functional frontend prototype and technical architecture proposal designed for the **Election Commission of India (ECI) IT Cell**. The platform aims to resolve the widespread administrative gridlock caused by the Special Intensive Revision (SIR) by providing an expedited, transparent digital pathway for erroneously deleted voters to audit their status and request immediate restoration without losing their electoral history[cite: 20, 21].
 
 ## ⚠️ The Problem: Systemic Bottlenecks in the SIR Process
