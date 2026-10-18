@@ -34,7 +34,28 @@ The proposed data flow relies on existing ECI database structures while introduc
 
 This repository contains a standalone, production-ready frontend prototype (`index.html`) utilizing vanilla JavaScript and Tailwind CSS via CDN[cite: 21]. 
 
-1. **Clone the Repository:**
+**Clone the Repository:**
    ```bash
    git clone [https://github.com/yourusername/eci-sir-restoration-portal.git](https://github.com/yourusername/eci-sir-restoration-portal.git)
    cd eci-sir-restoration-portal
+
+1. **Run Locally:**
+Simply open the index.html file in any modern web browser. No local server, backend, or build-step is required for the frontend demonstration.
+
+2. **Test the Single Audit:**
+
+* Enter Mock ID XYZ9876543 to simulate an elector flagged as "Absent/Shifted".
+
+* Enter Mock ID ABC1234567 to simulate an active elector.
+
+3. **Test the Bulk Auditor:**
+
+* Click "Download Sample Neighborhood Dataset (.csv)" within the UI.
+
+* Upload the downloaded file to the dropzone to see the batch aggregation metrics and JSON export capabilities.
+
+📖 Background & Context
+This architectural proposal was developed against the backdrop of the youth-led Cockroach Janta Party (CJP) protests that escalated in late 2026. Originally formed in May 2026 to protest youth unemployment and NEET exam paper leaks, the movement expanded its focus by September and October 2026 to demand the resignation of Chief Election Commissioner Gyanesh Kumar. This shift occurred after the Special Intensive Revision (SIR) led to the deletion of roughly 130 million names from the electoral rolls, a process critics alleged was arbitrary and bypassed internal ECI objections. The Supreme Court of India intervened, issuing notices regarding the procedural legality of the mass deletions and clarifying that deletion from the roll does not equate to a loss of citizenship. This portal prototype is presented as a politically neutral, technical remediation tool to restore operational transparency, alleviate protest grievances, and optimize the ECI's digital infrastructure.
+
+📜 License
+Open-Source (MIT License) - Intended for immediate civic, academic, and administrative adoption.
